@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\aenaya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-242efd993bd3969efd7a4649e6a7cf8eb26c72d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\aenaya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\okhttp-3.1.2-8d94ddf547ce2746e4873489fc3cc1f887aee6b3.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-dc797ddc70d78beeeefa20053fb623059fd87058.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8c4aa56c96baf5324c855d373a30df8b345ab0c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\aenaya\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\okio-1.6.0-ff3065d28e27b6b2fdd9c479f777d23b49c82ff4.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-66443cb1be9a435c0002eccec430502d51f58951.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-459ec10ab15389430590d4940ec4ddd2f15dbc44.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\volley-c6429fcf0121a95ba7383e069856142d78245a15.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-81401e1a7a637e5876c1b037acd0c53465a4983d.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-9195b61b8ed05f5cc22703d7713813f6a6eac43a.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-bc45922b4c896e80fcc91288c42b3bdc22e328ef.jar" />
+    </item>
+    <item
+        jar="D:\projects\UdacityMaterial\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\projects\UdacityMaterial\build\intermediates\pre-dexed\debug\classes-5834f4746f419d825073358366e86f20ea0bcef1.jar" />
+    </item>
+
+</items>
